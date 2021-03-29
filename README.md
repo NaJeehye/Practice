@@ -1,2 +1,2 @@
 # Practice
-Practice code
+Practice algorithm code
